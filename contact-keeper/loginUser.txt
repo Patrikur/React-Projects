@@ -1,0 +1,3 @@
+BecomeDeveloper!05
+
+mongodb+srv://PatP:<password>@contactkeeper.51nh8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority

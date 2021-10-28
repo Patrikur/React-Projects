@@ -1,0 +1,3 @@
+{ "mongoURI": "mongodb+srv://PatP:BecomeDeveloper!05@contactkeeper.51nh8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
